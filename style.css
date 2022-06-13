@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;600&display=swap');
+
+body{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.content-credit{
+    width: 360px;
+    height: 1200px;
+    background-color: #fff;
+    text-align: left;
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.content-credit h1{
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 23px;
+    margin: 16px 0 0;
+}
+
+.content-credit h2{
+    font-family: 'Sora', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 24px 0 16px;
+}
+
+.credit-flex p{
+    font-family: 'Sora', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.credit-flex input,
+.credit-flex select{
+    text-indent: 16px;
+    width: 328px;
+    height: 48px;
+    border: 0.5px solid #aeaeae;
+    border-radius: 8px;
+    opacity: 0.5;
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #000;
+    margin: 8px 0;
+}
+
+.button-btn button{
+    width: 328px;
+    height: 48px;
+    background-color: #232529;
+    border-radius: 4px;
+    margin: 16px 0 50px;
+}
+
+.button-btn a{
+    font-family: 'Sora', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-decoration: none;
+    color: #f5f5f5;
+}
+
+
+
+
+
+
+
+
+
